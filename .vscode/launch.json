@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/sindo/Fe-code/fe-code/Fe-code",
-      "program": "c:/Users/sindo/Fe-code/fe-code/Fe-code/build/Debug/outDebug",
+      "cwd": "c:/Users/sindo/Fe-code/Fe-code-1",
+      "program": "c:/Users/sindo/Fe-code/Fe-code-1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
